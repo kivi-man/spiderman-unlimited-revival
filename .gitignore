@@ -1,0 +1,11 @@
+# Only our own source is published. Everything else (game files, APKs, saves, keys) stays local.
+/*
+!/.gitignore
+!/README.md
+!/AGENT.md
+!/fix/
+/fix/*
+!/fix/*.c
+!/fix/*.h
+!/fix/*.py
+!/fix/*.sh
